@@ -7,6 +7,12 @@
   - jstutorial1 - 8 under src
 - jstutorial4.js
   - did not work 100% as expected
+- jstutorial5.js
+- jstutorial6.js
+- jstutorial7.js
+  - Recursion is when a function calls itself until it doesn't
+- jstutorial8.js
+  - NOT COMPLETE
 
 ### Egghead.io: Learn ES^ (ECMAScript 2015) 
 - source: [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
