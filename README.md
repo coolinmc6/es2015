@@ -1,5 +1,20 @@
 # README.md
 
+## JavaScript Functions / Features by file
+
+- Concat
+  - egghead-js-arrays/v1
+- Filter
+- Map
+- Promises
+  - egghead-es6/v12
+- Push
+  - egghead-js-arrays/v8
+- Reduce
+  - egghead-js-arrays/v11
+
+
+
 ## JavaScript Lectures from [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 - **STATUS**: 75%
@@ -40,3 +55,4 @@ var filtered = lessons
 - Video 10 also really good, interesting function called 'every'
   - he also brings in filter as well which is similar but returns the actual object
   in an array, not just a true/false value
+- Video 11: reduce
