@@ -14,7 +14,7 @@
 - jstutorial8.js
   - NOT COMPLETE
 
-### Egghead.io: Learn ES^ (ECMAScript 2015) 
+### Egghead.io: Learn ES6 (ECMAScript 2015) 
 - source: [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
 
 
@@ -23,4 +23,17 @@
 
 ## Egghead.io: Understand JavaScript Arrays
 - source: [Understand JavaScript Arrays](https://egghead.io/courses/javascript-arrays-in-depth)
+- pretty cool, using filter multiple times
 
+```javascript
+var filtered = lessons
+	.filter(x => x.tags.indexOf(searchTerm) > -1 )
+	.filter(x => x.views > minViews)
+	.sort((a,b) => b.views - a.views)
+	.map(x => `  <li>${x.title}</li>`)
+	.join('\n');
+```
+
+-searchTerm and minViews are both variables declared above
+- Video 8 is really cool:
+  - I like how I was able to dynamically add list items to the screen
