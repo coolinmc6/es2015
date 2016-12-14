@@ -12,6 +12,7 @@
   - egghead-js-arrays/v8
 - Reduce
   - egghead-js-arrays/v11
+  - cm-playaround/reduce1.js
 
 
 
