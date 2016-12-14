@@ -14,7 +14,9 @@
   - egghead-js-arrays/v11
   - cm-playaround/reduce1.js
 
-
+## YouTube Videos
+- [Javascript Reduce and Map In Depth. Explained.](https://www.youtube.com/watch?v=t4MOEfpsC60) - 18mins
+  - good stuff, I need to go through this again
 
 ## JavaScript Lectures from [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
