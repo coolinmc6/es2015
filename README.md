@@ -37,3 +37,6 @@ var filtered = lessons
 -searchTerm and minViews are both variables declared above
 - Video 8 is really cool:
   - I like how I was able to dynamically add list items to the screen
+- Video 10 also really good, interesting function called 'every'
+  - he also brings in filter as well which is similar but returns the actual object
+  in an array, not just a true/false value
