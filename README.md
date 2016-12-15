@@ -2,6 +2,11 @@
 
 ## Notes
 - Awesome site: [JSON Generator](http://www.json-generator.com/)
+- Next steps would be to (not in any particular order): 
+  - dig into reduce, filter, and map some more
+  - Redo funfunfunction video on Promises
+  - Redo funfunfunction video on closures
+
 
 ## JavaScript Functions / Features by file
 
