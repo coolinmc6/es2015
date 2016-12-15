@@ -57,6 +57,31 @@ var ageSum2 = json.reduce(function(all, item, index) {
 ### Egghead.io: Reduce Data with Javascript Array#reduce 
 - source: [Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript)
 
+- from Video 2, I re-wrote the function using the syntax that I'm more familiar with and
+the ternary operator:
+```javascript
+var result2 = votes.reduce((all,item) => {
+  all[item] ? all[item] += 1 : all[item] = 1;
+  return all;
+}, {})
+```
+
+- Video 3 was really good and showed how map() and filter() are spinoffs of reduce
+  - you also see how slow it is to use filter and map separately vs. just using reduce
+  - The code below is pretty cool...you can use console.time() to see how long it takes to run something.
+  - console.time('name of timed test'), [stuff your timing], console.timeEnd('name of timed test')
+```javascript
+console.time('bigDataReduce');
+var reducedBigData = bigData.reduce(function(acc,value){
+  if(value % 2 === 0){
+    acc.push(value*2);
+  }
+  return acc;
+},[])
+console.timeEnd('bigDataReduce');
+```
+
+
 ### Egghead.io: Understand JavaScript Arrays
 - source: [Understand JavaScript Arrays](https://egghead.io/courses/javascript-arrays-in-depth)
 - pretty cool, using filter multiple times
