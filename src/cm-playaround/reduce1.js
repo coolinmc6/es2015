@@ -1,3 +1,8 @@
+
+var json = $.getJSON("http://www.json-generator.com/api/json/get/cundGkvSIy?indent=2").then(function(json){
+	window.json = json;
+	return window.json;
+})
 let array = [1,2,3,4,5,6,7];
 
 console.log('Un-reduced array: ', array);

@@ -7,6 +7,44 @@
   - Redo funfunfunction video on Promises
   - Redo funfunfunction video on closures
 
+### Babel
+- creating a new repo setup for Babel: [Babel CLI](http://babeljs.io/docs/setup/#installation):
+1. create repo
+2. install Babel in repo
+```sh
+npm install --save-dev babel-cli
+```
+
+3. update "scripts" in package.json
+```json
+  {
+    "name": "my-project",
+    "version": "1.0.0",
++   "scripts": {
++     "build": "babel src -d lib"
++   },
+    "devDependencies": {
+      "babel-cli": "^6.0.0"
+    }
+  }
+```
+
+4. Following command builds .js files from src (where you code everything) to lib (where
+Babel spits out everything)
+```sh
+npm run build
+```
+
+5. Create .babelrc configuration file
+```sh
+npm install babel-preset-env --save-dev
+```
+```json
+{
+  "presets": ["env"]
+}
+```
+
 
 ## JavaScript Functions / Features by file
 
