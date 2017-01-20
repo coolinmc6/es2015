@@ -1,5 +1,14 @@
 # README.md
 
+## How to Use
+- create all files in the /src directory
+- do npm run build in Terminal
+- open in browser
+
+## Next Steps
+- Traversy Tutorials: Finished on v4, start on v5
+
+
 ## Notes
 - Awesome site: [JSON Generator](http://www.json-generator.com/)
 - Next steps would be to (not in any particular order): 
@@ -65,6 +74,10 @@ Babel spits out everything)
 - Reduce
   - egghead-js-arrays/v11
   - cm-playaround/reduce1.js
+
+## Traversy-Tutorial
+- source: [JavaScript ES6 / ES2015 Tutorials](https://www.youtube.com/playlist?list=PLillGF-RfqbZ7s3t6ZInY3NjEOOX7hsBv)
+- Finished on v4, start on v5
 
 ## YouTube Videos
 
