@@ -13,16 +13,60 @@ Back to [README](https://github.com/coolinmc6/es2015#readmemd)
 
 ### Arrow Functions
 
+**Key Points**
+
+**Examples**
+
+**Bulk**
+
+
+
 ### Filter Function
+
+**Key Points**
+
+**Examples**
+
+**Bulk**
 
 ### Map Function
 
+**Key Points**
+
+**Examples**
+
+**Bulk**
+
 ### Maps & Weakmaps
+
+**Key Points**
+
+**Examples**
+
+**Bulk**
 
 ### Reduce Function
 
+**Key Points**
+
+**Examples**
+
+**Bulk**
+
 ### Spread Operator
 
+**Key Points**
+
+**Examples**
+
+**Bulk**
+
 ### String Templates
+
+**Key Points**
+
+**Examples**
+
+**Bulk**
 
 
