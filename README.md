@@ -2,8 +2,13 @@
 
 ## How to Use
 - create all files in the /src directory
-- do npm run build in Terminal
+- run the following in shell
+```sh
+npm run build
+```
+
 - open in browser
+- aggregate notes [here](https://github.com/coolinmc6/es2015/blob/master/Notes.md#es2015--es6-notes)
 
 ## Next Steps
 - Traversy Tutorials: Finished on v4, start on v5
