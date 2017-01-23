@@ -164,3 +164,12 @@ var filtered = lessons
   - he also brings in filter as well which is similar but returns the actual object
   in an array, not just a true/false value
 - Video 11: reduce
+
+
+
+
+
+
+
+
+
