@@ -9,9 +9,11 @@ npm run build
 
 - open in browser
 - aggregate notes [here](https://github.com/coolinmc6/es2015/blob/master/Notes.md#es2015--es6-notes)
+  - all notes into Bulk and then distill them into the good stuff above
+  - 
 
 ## Next Steps
-- Traversy Tutorials: Finished on v4, start on v5
+- Traversy Tutorials: Finished on v7, start on v8: Set, Map, WeakSet & WeakMap
 
 
 ## Notes

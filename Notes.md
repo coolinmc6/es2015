@@ -10,6 +10,7 @@ Back to [README](https://github.com/coolinmc6/es2015#readmemd)
 - [Reduce Function](https://github.com/coolinmc6/es2015/blob/master/Notes.md#Reduce-Function)
 - [Spread Operator](https://github.com/coolinmc6/es2015/blob/master/Notes.md#Spread-Operator)
 - [String Templates](https://github.com/coolinmc6/es2015/blob/master/Notes.md#String-Templates)
+- [Notes Template](https://github.com/coolinmc6/es2015/blob/master/Notes.md#Template)
 
 ### Arrow Functions
 
@@ -62,6 +63,14 @@ Back to [README](https://github.com/coolinmc6/es2015#readmemd)
 **Bulk**
 
 ### String Templates
+
+**Key Points**
+
+**Examples**
+
+**Bulk**
+
+### Template
 
 **Key Points**
 
